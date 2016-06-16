@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    self.title = @"Title";
+    
     self.view.backgroundColor = [UIColor whiteColor];
 }
 
